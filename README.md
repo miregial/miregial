@@ -11,7 +11,7 @@ I am a student in software engineering.
 - :telescope: I study system analysis, project management in IT and practice programming a little.
 
 - :seedling: I am currently learning to write technical assignments. 
-- :seedling: I'm trying to learn Python, SQL, the basics of C++ and Java (sf A_hpp).
+- :seedling: I'm trying to learn Python, SQL, the basics of C++ and Java (for parallel computing).
 - :telescope: I’m looking for help with writing correct technical assignments.
 
 <div id="bottom" align="center">
